@@ -25,7 +25,7 @@ The project simulates a database-driven **restaurant management system** with th
     - Other PHP files for additional entities (e.g., `managers`, `dishes`, `branches`) follow a similar structure to `chefs.php`.
 
 ### Video Demonstration
-A video demonstrating the project’s functionality and design is available on [Google Drive](#) (link). The video covers the initial E-R diagram, database setup, and usage of the PHP-based CRUD interface.
+A video demonstrating the project’s functionality and design is available on [Google Drive](#) (https://drive.google.com/file/d/1SG-0Hqw6fcZa3_jTluFd7asJUdtpqBTG/view?usp=sharing). The video covers the initial E-R diagram, database setup, and usage of the PHP-based CRUD interface.
 
 ### Group Members
 This project was completed as a group effort with the following members:
