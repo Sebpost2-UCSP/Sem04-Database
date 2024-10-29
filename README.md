@@ -22,7 +22,7 @@ The project simulates a database-driven **restaurant management system** with th
   - **PHP Files**:
     - **chefs.php**: Provides a CRUD interface for the `chefs` entity, allowing users to insert, delete, view, and update chef records. This file also handles form input for various fields (e.g., DNI, branch code, name, phone number, start date).
     - **chefs_excel.php**: Exports the `chefs` data to an Excel file (`chefs.xls`), allowing easy data extraction and reporting.
-    - Other PHP files for additional entities (e.g., `managers`, `dishes`, `branches`) follow a similar structure to `chefs.php`.
+    - Other PHP files for additional entities (e.g., `managers`, `sedes`, `menu`) follow a similar structure to `chefs.php`.
 
 ### Video Demonstration
 A video demonstrating the project’s functionality and design is available on Google Drive (https://drive.google.com/file/d/1SG-0Hqw6fcZa3_jTluFd7asJUdtpqBTG/view?usp=sharing). The video covers the initial E-R diagram, database setup, and usage of the PHP-based CRUD interface.
